@@ -20,7 +20,9 @@ def speak_to_grandma(phrase)
     return "I LOVE YOU TOO PUMPKIN!"
   
   elsif phrase == "Hi Nana, how are you?"
-    return ""
+    return "HUH?! SPEAK UP, SONNY!"
+    
+  elsif phrase == ""
     
   end
 end
